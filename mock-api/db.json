@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": 126835,
+      "title": "We Are Legion",
+      "author": "Brian Knappenberger",
+      "year": 2012,
+      "parental_rating": 14,
+      "duration": 95,
+      "description": "Este documentário nos leva para dentro do mundo do Anonymous, o grupo de hackers radicais que se tornou símbolo da desobediência civil na era digital."
+    },
+    {
+      "id": 126836,
+      "title": "Os Antifascistas",
+      "author": "Patrik Öberg",
+      "year": 2017,
+      "parental_rating": 16,
+      "duration": 75,
+      "description": "Uma guerra está sendo travada nas ruas da Europa e este documentário nos leva para trás das máscaras dos militantes chamados antifascistas."
+    },
+    {
+      "id": 126837,
+      "title": "Não Corre Menino!",
+      "author": "Rafael Bispo",
+      "year": 2017,
+      "parental_rating": 0,
+      "duration": 11,
+      "description": "O filme é um retrato do cotidiano das comunidades pobres que sofrem com a falta de segurança e estrutura do governo, gerando um grave aumento no número de vítimas colaterais."
+    }
+
+  ]
+}

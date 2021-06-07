@@ -1,0 +1,14 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/home/enieber/projects/mobile/libreflix/node_modules/bs-platform/linux/bsc.exe -as-ppx -bs-jsx 3'
+S /home/enieber/projects/mobile/libreflix/node_modules/bs-platform/lib/ocaml
+B /home/enieber/projects/mobile/libreflix/node_modules/bs-platform/lib/ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S /home/enieber/projects/mobile/libreflix/node_modules/@rescript/react/lib/ocaml
+B /home/enieber/projects/mobile/libreflix/node_modules/@rescript/react/lib/ocaml
+S /home/enieber/projects/mobile/libreflix/node_modules/rescript-react-native/lib/ocaml
+B /home/enieber/projects/mobile/libreflix/node_modules/rescript-react-native/lib/ocaml
+S /home/enieber/projects/mobile/libreflix/node_modules/@rescript-react-native/paper/lib/ocaml
+B /home/enieber/projects/mobile/libreflix/node_modules/@rescript-react-native/paper/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}
