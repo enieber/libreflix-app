@@ -15,6 +15,6 @@
   "bs-dependencies": [
     "@rescript/react",
     "rescript-react-native",
-    "@rescript-react-native/paper"
+    "rescript-react-navigation"
   ]
 }
